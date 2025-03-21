@@ -34,6 +34,7 @@ Step 1: Use the Search resources box at the top of the Azure portal instead of c
 In step 3: Clear checkbox from Enable Firewall Management NIC
 
 Task 6: Configure an application rule <br>
+Application Rule is now under Rules not settings <br>
 Wait until the Application rule has deployed before proceeding<br>
 
 Task 7: Configure a network rule <br>
