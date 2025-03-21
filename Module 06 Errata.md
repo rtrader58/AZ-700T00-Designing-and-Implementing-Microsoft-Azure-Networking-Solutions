@@ -18,6 +18,7 @@ Step 13: Click Details Then Fill in the information > click tags <br>
 
 Task 7: Submit a DDoS service request to run a DDoS attack <br>
 Step 1: When creating the breakingpoint account you will need to use a valid email address that you have access to (Recommend creating a dummy outlook account) <br>
+NOTE - You will not be able to actually schedule the DDoS attack as you are not a Global Admin in the Cloud Slice version of the lab <br>
 
 Task 8: Clean up resources <br>
 Step 1: if prompted create a storage account <br>
